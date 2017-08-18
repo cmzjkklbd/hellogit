@@ -1,4 +1,5 @@
 hellogit
 hellobrew
+hellopip3
 hellopytorch
 hellotensorflow
