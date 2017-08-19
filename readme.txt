@@ -3,3 +3,4 @@ hellobrew
 hellopip3
 hellopytorch
 hellotensorflow
+hellocnn
